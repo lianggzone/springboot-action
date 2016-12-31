@@ -1,0 +1,3 @@
+# CUSTOM
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.lianggzone.springboot.autoconfig.author.AuthorAutoConfiguration
