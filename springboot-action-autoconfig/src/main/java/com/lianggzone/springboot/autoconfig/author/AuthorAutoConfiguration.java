@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * <h3>概要:</h3><p>LogAutoConfiguration</p>
+ * <h3>概要:</h3><p>AuthorAutoConfiguration</p>
  * <h3>功能:</h3><p>自定义自动加载配置类</p>
  * <h3>履历:</h3>
  * <li>2016年12月31日  v0.1 版本内容: 新建</li>
