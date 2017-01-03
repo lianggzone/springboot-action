@@ -27,6 +27,10 @@
 ## 服务器篇
 <a href="http://blog.720ui.com/2016/springboot_05_server_tomcat/" target="_blank">Spring Boot 揭秘与实战（五） 服务器篇 - 内嵌的服务器 Tomcat剖析</a>
 
+<a href="http://blog.720ui.com/2017/springboot_05_server_tomcat_embeddedfactory/" target="_blank">Spring Boot 揭秘与实战（五） 服务器篇 - Tomcat 代码配置</a>
+
+<a href="http://blog.720ui.com/2017/springboot_05_server_jetty_undertow/" target="_blank">Spring Boot 揭秘与实战（五） 服务器篇 - 其他内嵌服务器</a>
+
 ## 消息中间件篇
 
 
