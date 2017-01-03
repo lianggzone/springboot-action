@@ -18,6 +18,8 @@
 
 <a href="http://blog.720ui.com/2016/springboot_02_data_elasticsearch/" target="_blank">Spring Boot 揭秘与实战（二） 数据存储篇 - ElasticSearch</a>
 
+<a href="http://blog.720ui.com/2017/springboot_02_data_jpa/" target="_blank">Spring Boot 揭秘与实战（二） 数据存储篇 - JPA</a>
+
 ## 日志框架篇
 <a href="http://blog.720ui.com/2016/springboot_03_logging/" target="_blank">Spring Boot 揭秘与实战（三） 日志框架篇 - 如何快速集成日志系统</a>
 
@@ -50,4 +52,4 @@
 
 ## 源代码
 
-> 相关示例完整代码： [springboot-action-demo](https://github.com/lianggzone/springboot-action.git)
+> 相关示例完整代码： [springboot-action](https://github.com/lianggzone/springboot-action.git)
