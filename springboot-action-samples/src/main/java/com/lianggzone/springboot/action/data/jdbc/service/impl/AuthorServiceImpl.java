@@ -17,7 +17,7 @@ import com.lianggzone.springboot.action.data.jdbc.service.AuthorService;
  * @author 粱桂钊
  * @since 0.1
  */
-@Service("jdbc.AuthorService")
+@Service("jdbc.authorService")
 public class AuthorServiceImpl implements AuthorService {
     @Autowired
     private AuthorDao authorDao;

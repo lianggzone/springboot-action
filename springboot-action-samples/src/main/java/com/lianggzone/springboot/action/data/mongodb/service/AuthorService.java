@@ -17,7 +17,7 @@ import com.lianggzone.springboot.action.data.mongodb.entity.Author;
  * @author 粱桂钊
  * @since 0.1
  */
-@Service("mongodb.AuthorService")
+@Service("mongodb.authorService")
 public class AuthorService {
     
     @Autowired
