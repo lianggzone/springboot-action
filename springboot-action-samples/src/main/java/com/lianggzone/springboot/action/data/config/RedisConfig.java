@@ -1,4 +1,4 @@
-package com.lianggzone.springboot.action.config;
+package com.lianggzone.springboot.action.data.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

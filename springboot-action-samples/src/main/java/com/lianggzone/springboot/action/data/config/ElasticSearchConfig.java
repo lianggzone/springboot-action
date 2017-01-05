@@ -1,4 +1,4 @@
-package com.lianggzone.springboot.action.config;
+package com.lianggzone.springboot.action.data.config;
 
 //@Configuration
 //@EnableElasticsearchRepositories("com.lianggzone.springboot.action.data.elasticsearch")

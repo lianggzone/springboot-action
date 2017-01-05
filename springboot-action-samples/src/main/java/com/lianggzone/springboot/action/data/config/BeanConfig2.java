@@ -1,4 +1,4 @@
-package com.lianggzone.springboot.action.config;
+package com.lianggzone.springboot.action.data.config;
 
 import javax.sql.DataSource;
 

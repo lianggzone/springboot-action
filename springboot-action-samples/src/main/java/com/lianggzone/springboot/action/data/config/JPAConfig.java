@@ -1,4 +1,4 @@
-package com.lianggzone.springboot.action.config;
+package com.lianggzone.springboot.action.data.config;
 
 import org.springframework.boot.orm.jpa.EntityScan;
 import org.springframework.context.annotation.Configuration;

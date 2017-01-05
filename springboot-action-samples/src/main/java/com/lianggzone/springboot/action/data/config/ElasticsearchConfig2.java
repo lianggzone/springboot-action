@@ -1,4 +1,4 @@
-package com.lianggzone.springboot.action.config;
+package com.lianggzone.springboot.action.data.config;
 
 import org.elasticsearch.client.Client;
 import org.elasticsearch.client.transport.TransportClient;
