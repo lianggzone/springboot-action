@@ -22,7 +22,6 @@
 
 <a href="http://blog.720ui.com/2017/springboot_02_data_transactional/" target="_blank">Spring Boot 揭秘与实战（二） 数据存储篇 - 声明式事务管理</a>
 
-<hr/>
 ## 数据缓存篇
 <a href="http://blog.720ui.com/2017/springboot_02_data_cache_concurrenmapcache/" target="_blank">Spring Boot 揭秘与实战（二） 数据缓存篇 - 快速入门</a>
 
