@@ -44,11 +44,17 @@
 
 <a href="http://blog.720ui.com/2017/springboot_05_server_jetty_undertow/" target="_blank">Spring Boot 揭秘与实战（五） 服务器篇 - 其他内嵌服务器</a>
 
-## 消息中间件篇
+## 消息队列篇
+<a href="http://blog.720ui.com/2017/springboot_06_mq_rabbitmq/" target="_blank">Spring Boot 揭秘与实战（六） 消息队列篇 - RabbitMQ</a>
 
 
 ## 实用技术篇
 <a href="http://blog.720ui.com/2017/springboot_07_othercore_freemarker/" target="_blank">Spring Boot 揭秘与实战（七） 实用技术篇 - FreeMarker 模板引擎</a>
+
+<a href="http://blog.720ui.com/2017/springboot_07_othercore_javamail/" target="_blank">Spring Boot 揭秘与实战（七） 实用技术篇 - Java Mail 发送邮件</a>
+
+<a href="http://blog.720ui.com/2017/springboot_07_othercore_async/" target="_blank">Spring Boot 揭秘与实战（七） 实用技术篇 - 异步任务</a>
+
 
 ## 源码分析篇
 <a href="http://blog.720ui.com/2016/springboot_source_autoconfigure/" target="_blank">Spring Boot 揭秘与实战 源码分析 - 开箱即用，内藏玄机</a>
