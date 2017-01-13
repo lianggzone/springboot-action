@@ -1,4 +1,4 @@
-package com.lianggzone.springboot.actuator.main;
+package com.lianggzone.springboot.actuator.health;
 
 import java.io.IOException;
 import java.nio.file.FileStore;
@@ -11,9 +11,16 @@ import org.springframework.boot.actuate.health.AbstractHealthIndicator;
 import org.springframework.boot.actuate.health.Health;
 import org.springframework.stereotype.Component;
 
+/**
+ * <h3>概要:</h3><p>CusDiskSpaceHealthIndicator</p>
+ * <h3>功能:</h3><p>自定义磁盘空间健康检测类</p>
+ * <h3>履历:</h3>
+ * <li>2017年01月12日  v0.1 版本内容: 新建</li>
+ * @author 粱桂钊
+ * @since 0.1
+ */
 @Component
 public class CusDiskSpaceHealthIndicator extends AbstractHealthIndicator {
-
 
     private final FileStore fileStore;
     private final long thresholdBytes;
