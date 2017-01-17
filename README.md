@@ -55,6 +55,17 @@
 
 <a href="http://blog.720ui.com/2017/springboot_07_othercore_async/" target="_blank">Spring Boot 揭秘与实战（七） 实用技术篇 - 异步任务</a>
 
+## 发布与部署
+<a href="http://blog.720ui.com/2017/springboot_08_deploy_autoload/" target="_blank">Spring Boot 揭秘与实战（八） 发布与部署 - 开发热部署</a>
+
+
+## 应用监控篇
+<a href="http://blog.720ui.com/2017/springboot_09_actuator_http/" target="_blank">Spring Boot 揭秘与实战（九） 应用监控篇 - HTTP 应用监控</a>
+
+<a href="http://blog.720ui.com/2017/springboot_09_actuator_http_healthindicator/" target="_blank">Spring Boot 揭秘与实战（九） 应用监控篇 - HTTP 健康监控</a>
+
+<a href="http://blog.720ui.com/2017/springboot_09_actuator_endpoint/" target="_blank">Spring Boot 揭秘与实战（九） 应用监控篇 - 自定义监控端点</a>
+
 
 ## 源码分析篇
 <a href="http://blog.720ui.com/2016/springboot_source_autoconfigure/" target="_blank">Spring Boot 揭秘与实战 源码分析 - 开箱即用，内藏玄机</a>
