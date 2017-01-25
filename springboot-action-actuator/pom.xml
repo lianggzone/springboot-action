@@ -9,10 +9,10 @@
 	</parent>
 
 	<groupId>com.lianggzone.demo</groupId>
-	<artifactId>spring-boot-sample-actuator</artifactId>
+	<artifactId>springboot-action-actuator</artifactId>
 	<version>0.1</version>
 	<packaging>jar</packaging>
-	<name>spring-boot-sample-actuator</name>
+	<name>springboot-action-actuator</name>
 
 	<developers>
 		<developer>
