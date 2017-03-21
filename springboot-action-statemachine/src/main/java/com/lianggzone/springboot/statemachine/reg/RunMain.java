@@ -18,8 +18,8 @@ import com.lianggzone.springboot.statemachine.reg.enums.RegStatusEnum;
  * @author 粱桂钊
  * @since 0.1
  */
-@SpringBootApplication
-@ComponentScan(basePackages = { "com.lianggzone.springboot" })
+//@SpringBootApplication
+//@ComponentScan(basePackages = { "com.lianggzone.springboot" })
 public class RunMain implements CommandLineRunner {
     
     @Autowired
@@ -28,8 +28,6 @@ public class RunMain implements CommandLineRunner {
     public static void main(String[] args) {
         SpringApplication.run(RunMain.class, args);
     }
-
-    
 
     @Override
     public void run(String... args) throws Exception {

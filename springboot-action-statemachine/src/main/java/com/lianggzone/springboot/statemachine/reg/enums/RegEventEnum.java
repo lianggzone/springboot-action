@@ -9,25 +9,14 @@ package com.lianggzone.springboot.statemachine.reg.enums;
  * @since 0.1
  */
 public enum RegEventEnum {
-
 	// 连接
-    CONNECT(1),
+    CONNECT,
 	// 注册
-    REGISTER(2),
+    REGISTER,
     // 注册成功
-    REGISTER_SUCCESS(3),
+    REGISTER_SUCCESS,
     // 注册失败
-    REGISTER_FAILED(4),
+    REGISTER_FAILED,
     // 注销
-    UN_REGISTER(5);
-
-	private int value;
-
-	private RegEventEnum(int value){
-		this.value = value;
-	}
-
-	public int getValue() {
-		return value;
-	}
+    UN_REGISTER;
 }

@@ -11,21 +11,12 @@ package com.lianggzone.springboot.statemachine.reg.enums;
 public enum RegStatusEnum {
 
 	// 未连接
-    UNCONNECTED(1),
+    UNCONNECTED,
     // 已连接
-    CONNECTED(2),
+    CONNECTED,
     // 注册中
-    REGISTERING(3),
+    REGISTERING,
     // 已注册
-    REGISTERED(4);
+    REGISTERED;
 
-	private int value;
-
-	private RegStatusEnum(int value){
-		this.value = value;
-	}
-
-	public int getValue() {
-		return value;
-	}
 }
