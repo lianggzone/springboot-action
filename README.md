@@ -55,6 +55,8 @@
 
 <a href="http://blog.720ui.com/2017/springboot_07_othercore_async/" target="_blank">Spring Boot 揭秘与实战（七） 实用技术篇 - 异步任务</a>
 
+<a href="http://blog.720ui.com/2017/springboot_07_othercore_statemachine/" target="_blank">Spring Boot 揭秘与实战（七） 实用技术篇 - StateMachine 状态机机制</a>
+
 ## 发布与部署
 <a href="http://blog.720ui.com/2017/springboot_08_deploy_autoload/" target="_blank">Spring Boot 揭秘与实战（八） 发布与部署 - 开发热部署</a>
 
