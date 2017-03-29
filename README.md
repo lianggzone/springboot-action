@@ -44,6 +44,8 @@
 
 <a href="http://blog.720ui.com/2017/springboot_05_server_jetty_undertow/" target="_blank">Spring Boot 揭秘与实战（五） 服务器篇 - 其他内嵌服务器</a>
 
+<a href="http://blog.720ui.com/2017/springboot_05_server_tomcat_https/" target="_blank">Spring Boot 揭秘与实战（五） 服务器篇 - Tomcat 启用 HTTPS</a>
+
 ## 消息队列篇
 <a href="http://blog.720ui.com/2017/springboot_06_mq_rabbitmq/" target="_blank">Spring Boot 揭秘与实战（六） 消息队列篇 - RabbitMQ</a>
 
