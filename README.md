@@ -62,6 +62,7 @@
 ## 发布与部署
 <a href="http://blog.720ui.com/2017/springboot_08_deploy_autoload/" target="_blank">Spring Boot 揭秘与实战（八） 发布与部署 - 开发热部署</a>
 
+<a href="http://blog.720ui.com/2017/springboot_08_remote_debug/" target="_blank">Spring Boot 揭秘与实战（八） 发布与部署 - 远程调试</a>
 
 ## 应用监控篇
 <a href="http://blog.720ui.com/2017/springboot_09_actuator_http/" target="_blank">Spring Boot 揭秘与实战（九） 应用监控篇 - HTTP 应用监控</a>
